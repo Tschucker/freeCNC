@@ -4,7 +4,7 @@ This project contains all the 3D printed parts used to create a CNC machine. It 
 
 ## Video
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/watch?v=D9cQSqTauSU/0.jpg)](http://www.youtube.com/watch?v=D9cQSqTauSU)
+[![Routing a small sign](http://img.youtube.com/vi/D9cQSqTauSU/0.jpg)](http://www.youtube.com/watch?v=D9cQSqTauSU)
 
 ## Authors
 

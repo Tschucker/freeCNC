@@ -1,6 +1,6 @@
 # freeCNC
 3D printed parts for CNC
-This project contains all the 3D printed parts used to create a CNC machine. It is a work in progress and is not meant to replace a comercial CNC router.
+This project contains all the 3D printed parts and purchased parts used to create a CNC frame anf gantry. It is a work in progress and is not meant to replace a commercial CNC router.
 
 ## Video
 
